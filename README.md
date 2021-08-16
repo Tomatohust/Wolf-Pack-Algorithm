@@ -1,5 +1,5 @@
 # Wolf-Pack-Algorithm
-This is a demo of the Wolf-Pack-Algorithm. The proposed algorithm is applied to 10 typical complex function optimization pronlems.
+This is a demo of the Wolf-Pack-Algorithm. The proposed algorithm is applied to 10 typical complex function optimization problems.
 
 You can just change the 'f_name' here to see how the algorithm works when applied to different functions.
 
