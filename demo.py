@@ -8,7 +8,7 @@
 @Software:   Pycharm2021.3 Python3.9.6
 @File    :   main.py
 @Time    :   2021-8-12
-@Desc    :   This is a demo of the Wolf-Pack-Algorithm. The proposed algorithm is applied to 10 typical
+@Desc    :   This is a demo of the Wolf-Pack-Algorithm. The proposed algorithm is applied to 12 typical
              complex function optimization pronlems.
 '''
 
