@@ -72,7 +72,7 @@ class BenchMarkFunc:  # Define function classes, each method corresponding to th
         return f
 
     def F17(self, x, y):
-        f = x ** 2 + 2 * y ** 2 - 0.3 * np.cos(3 * pi * x + 4 * pi * y) + 0.3;
+        f = x ** 2 + 2 * y ** 2 - 0.3 * np.cos(3 * pi * x + 4 * pi * y) + 0.3
         return f
 
     def F18(self, x, y):
